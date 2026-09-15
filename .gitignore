@@ -1,0 +1,13 @@
+# Ejecutables compilados específicos
+multiplicacion128
+multiplicacion128_sinBMI2
+
+# Archivos objeto y bibliotecas
+*.o
+*.so
+*.a
+
+# Salidas predeterminadas del compilador y dumps
+a.out
+*.out
+core
